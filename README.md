@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard_preview.png)
+
 # 📊 E-Commerce Predictive Customer Churn Analytics
 
 ## 📝 Overview
